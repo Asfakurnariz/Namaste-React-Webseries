@@ -1,0 +1,37 @@
+{
+  "name": "namaste_react",
+  "version": "1.0.0",
+  "description": "Namaste React Series by Akshay Saini",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Asfakurnariz/Namaste-React-Webseries.git"
+  },
+  "keywords": [
+    "React",
+    "Namaste",
+    "React",
+    "Akshay",
+    "Saini",
+    "Course",
+    "Learning",
+    "React"
+  ],
+  "author": "Asfakur Nariz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Asfakurnariz/Namaste-React-Webseries/issues"
+  },
+  "homepage": "https://github.com/Asfakurnariz/Namaste-React-Webseries#readme",
+  "devDependencies": {
+    "parcel": "^2.8.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}

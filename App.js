@@ -1,3 +1,6 @@
+import React from "react";
+import ReactDOM from "react-dom/client";
+
 /**
  * this is nested code in HTML, How we can write it.
  * 
@@ -19,8 +22,8 @@
 // this is the code of core React Code, this is how we can write code with react without JSX.
 const parent = React.createElement("div", {id: "parent"}, [
     React.createElement("div", {id: "child"}, [
-        React.createElement("h1", {}, "I'm h1 tag"),
-        React.createElement("h2", {}, "I'm h2 tag"),
+        React.createElement("h1", {}, "This is Namaste React"),
+        React.createElement("h2", {}, "Course purches by Asfakur Nariz"),
     ]),
     React.createElement("div", {id: "child"}, [
         React.createElement("h1", {}, "I'm h1 tag"),
